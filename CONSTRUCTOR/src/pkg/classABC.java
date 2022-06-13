@@ -12,7 +12,8 @@ public class classABC
 	}
 	 public classABC(int a) 
 	 {
-		System.out.println("one parameterized constructor");// TODO Auto-generated constructor stub
+	
+		 System.out.println("one 1 parameterized constructor");// TODO Auto-generated constructor stub
 	}
 	 public static void main(String[] args)
 	 {
